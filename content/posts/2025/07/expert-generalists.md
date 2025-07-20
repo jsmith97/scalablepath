@@ -1,6 +1,6 @@
 ---
 date: '2025-07-20T16:32:03+01:00'
-draft: true
+draft: false
 title: 'Expert Generalists Will Win the AI Race'
 tags:
   - leadership
