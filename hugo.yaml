@@ -1,0 +1,57 @@
+baseURL: "https://scalablepath.net"
+languageCode: "en-us"
+title: "Ben Smith"
+description: "I help build systems and teams that solve real problems. With a background in security, cloud and automation, I care about technology that works, scales and supports people."
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+params:
+  defaultTheme: auto
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
+  DateFormat: "2 January, 2006"
+  homeInfoParams:
+    Title: "Talking about technology, leadership and strategy"
+    Content: >
+      I help build systems and teams that solve real problems.
+      With a background in security, networking, architecture and platform engineering,
+      I care about technology that works, scales and supports people.
+      Here you'll find thoughts on AI, tech leadership and building systems that matter.
+  socialIcons:
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/jsmith970"
+  author: Ben Smith
+  keywords: [engineering, leadership, cloud, automation, AI]
+  images:
+    - "/images/opengraph.jpg"
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableScrollToTop: false
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: true
+  # editPost:
+  #   URL: "https://github.com/jsmith970/bigbluecow.net/content"
+  #   Text: "Suggest Changes"
+  #   appendFilePath: true
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Tags
+      url: /tags/
+      weight: 2
+    - name: About
+      url: /about/
+      weight: 3

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI on Ben Smith</title>
+    <link>http://localhost:1313/tags/ai/</link>
+    <description>Recent content in AI on Ben Smith</description>
+    <image>
+      <title>Ben Smith</title>
+      <url>http://localhost:1313/images/opengraph.jpg</url>
+      <link>http://localhost:1313/images/opengraph.jpg</link>
+    </image>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jul 2025 16:32:03 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Expert Generalists Will Win the AI Race</title>
+      <link>http://localhost:1313/posts/2025/07/expert-generalists/</link>
+      <pubDate>Sun, 20 Jul 2025 16:32:03 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2025/07/expert-generalists/</guid>
+      <description>&lt;h3 id=&#34;ive-always-needed-to-know-the-why&#34;&gt;I’ve always needed to know the why&lt;/h3&gt;
+&lt;p&gt;As a child I used to take apart the toaster and washing machine just to figure out how they worked. More often than not I left behind a trail of broken appliances for my exasperated parents.&lt;/p&gt;
+&lt;p&gt;That curiosity never left. It’s what led me through a career spanning helpdesk support, networks, infrastructure, solution architecture, cloud, DevSecOps and now technology leadership. I’ve rebuilt myself more times than I can count. Not for the fun of it but because it’s the only way to stay relevant when the landscape keeps shifting underneath me.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
