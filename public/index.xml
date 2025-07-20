@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jul 2025 16:32:03 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 22:44:02 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 20 Jul 2025 22:44:02 +0100</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Ben Smith, a technologist with over 20 years of experience building and scaling systems, teams and functions across the public and private sector.&lt;/p&gt;
+&lt;p&gt;I’ve worked hands-on across infrastructure, cloud, networking and security — starting as a support analyst and growing into architecture, consulting and engineering leadership roles. I&amp;rsquo;ve delivered in high-pressure, high-scale environments including financial services, government and now product.&lt;/p&gt;
+&lt;p&gt;Today, I lead the technology team at PortSwigger, covering platform engineering, security, tech ops and user success. My focus is on building resilient systems, enabling high-trust teams and aligning technology with real-world outcomes.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Expert Generalists Will Win the AI Race</title>
       <link>http://localhost:1313/posts/2025/07/expert-generalists/</link>
