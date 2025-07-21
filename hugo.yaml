@@ -3,6 +3,7 @@ languageCode: "en-us"
 title: "Ben Smith"
 description: "I help build systems and teams that solve real problems. With a background in security, cloud and automation, I care about technology that works, scales and supports people."
 theme: "PaperMod"
+googleAnalytics: "G-0T724XZFB2"
 
 enableRobotsTXT: true
 buildDrafts: false
