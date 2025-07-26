@@ -6,6 +6,3 @@ TZ = "Europe/London"
 [build]
 publish = "public"
 command = "git config core.quotepath false && hugo --gc --minify"
-
-[functions."nightly-build"]
-schedule = "0 0 * * *"
