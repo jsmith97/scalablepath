@@ -1,4 +1,5 @@
 name: Nightly Deploy
+permissions: none
 
 on:
   workflow_dispatch: 
