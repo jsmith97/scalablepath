@@ -7,6 +7,5 @@ TZ = "Europe/London"
 publish = "public"
 command = "git config core.quotepath false && hugo --gc --minify"
 
-[[functions]]
-  schedule = "0 1 * * *" # every night at 1am UTC
-  name = "nightly-build"
+[functions."nightly-build"]
+schedule = "0 0 * * *"
