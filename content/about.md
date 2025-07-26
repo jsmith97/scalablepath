@@ -4,12 +4,10 @@ draft: false
 title: 'About'
 ---
 
-I'm Ben, a technologist with over 20 years of experience building and scaling systems, teams and functions across the public and private sector.
+I’m Ben, a technologist with 20+ years of experience building systems, teams and capabilities across infrastructure, security and cloud. I’ve delivered in high-pressure environments such as finance, government and product, and grown from hands-on support into architecture, consulting and engineering leadership.
 
-I’ve worked hands on across infrastructure, cloud, networking and security, starting as a support analyst and growing into architecture, consulting and engineering leadership roles. I've delivered in high pressure, large scale environments including financial services, government and now product.
+Right now, I lead the technology function at PortSwigger, covering platform engineering, security, tech ops and user success. I care about resilient systems, high-trust teams and aligning technology with real-world outcomes.
 
-Today, I lead the technology team at PortSwigger, covering platform engineering, security, tech ops and user success. My focus is on building resilient systems, enabling high-trust teams and aligning technology with real-world outcomes.
+Before this, I led DevSecOps at Barclays, consulted at ThoughtWorks, and held architecture roles at DWP, Co-op Bank and others. From early network engineering to org-wide strategy, I’ve always focused on delivery, clarity and making tech that actually matters.
 
-I’ve previously led DevSecOps at Barclays, consulted at ThoughtWorks, and held architecture leadership roles across DWP, Co-op Bank and more. From early career network engineering to shaping organisational strategy, I’ve always cared about delivery, clarity and building technology that actually matters.
-
-This site is where I write about AI, engineering leadership, systems thinking and the constant evolution of technology and teams.
+This site is where I share thoughts on AI, engineering leadership, systems thinking and how teams and technology evolve together.a
