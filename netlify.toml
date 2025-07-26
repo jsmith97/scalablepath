@@ -23,10 +23,3 @@ for = "/*"
     X-Frame-Options = "DENY"
     Referrer-Policy = "strict-origin-when-cross-origin"
     Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline'; img-src * data:; connect-src https://www.google-analytics.com;"
-
-# Remove trailing slashes
-[[redirects]]
-from = "/*/"
-to = "/:splat"
-status = 301
-force = true
