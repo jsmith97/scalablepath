@@ -1,0 +1,12 @@
+name: Nightly Deploy
+
+on:
+  workflow_dispatch: 
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - run: curl -X POST https://api.netlify.com/build_hooks/68854ce5702b504f60421f87
