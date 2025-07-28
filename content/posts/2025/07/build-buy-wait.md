@@ -17,9 +17,11 @@ Everything else? Buy it and move on. Focus where it matters.
 
 At PortSwigger, that means building software for security professionals, not CRMs, not invoicing systems, not things that already exist in a thousand better forms. We’re never going to out-invest Salesforce in CRM and while we’ve got the engineering talent to build one, it’s not our core business. So we don’t try.
 
-That mindset hasn’t changed but recently, something gave me pause.
+That mindset hasn’t changed, but recently something made me stop and think.
 
-I was chatting with Daf, our CEO, about some of the new AI integrations and he told me a story that stuck with me. He’d been speaking to another colleague about hooking up Google Drive to ChatGPT. The options were the usual suspects: build a connector, buy one or hack something together.
+The seed for this post came from a conversation with Daf, our CEO, who first framed the idea as “build, buy or wait.” The more I sat with it, the more it resonated.
+
+We were talking about some of the new AI integrations and he shared a story I kept coming back to. He’d been speaking to another colleague about hooking up Google Drive to ChatGPT. The options were the usual suspects: build a connector, buy one or hack something together.
 
 Then came the punchline:
 
@@ -28,7 +30,9 @@ Then came the punchline:
 
 And sure enough, they did.
 
-That line stuck with me.
+That line stayed with me.
+
+**Build, buy or wait.**
 
 **Build, buy or wait.**
 
