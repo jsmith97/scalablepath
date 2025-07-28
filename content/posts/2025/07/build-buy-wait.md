@@ -11,7 +11,11 @@ tags:
   - agenticai
 ---
 
-I’ve always believed in building what differentiates your business.
+Every team faces the same question eventually.
+
+Do we build it? Do we buy it?
+
+In my view, the answer is simple: build what differentiates you.
 
 Everything else? Buy it and move on. Focus where it matters.
 
@@ -31,8 +35,6 @@ Then came the punchline:
 And sure enough, they did.
 
 That line stayed with me.
-
-**Build, buy or wait.**
 
 **Build, buy or wait.**
 
