@@ -1,7 +1,7 @@
 ---
 date: '2025-08-05'
 publishDate: '2025-08-05'
-draft: true
+draft: false
 title: 'From Air-Gapped to AI-Ready: The Story of PortSwigger’s Delivery Shift'
 tags:
   - platform
