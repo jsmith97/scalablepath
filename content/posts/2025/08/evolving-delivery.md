@@ -16,7 +16,7 @@ The software was brilliant. The research was world-class. The infrastructure and
 
 When I joined PortSwigger, engineers were working in air-gapped environments. This was designed with security in mind, though over time it had started to get in the way. Teams often had to work around the controls just to stay productive. There were brilliant minds everywhere. We were spending large amounts of engineering effort building clever but overly complex solutions to problems already solved by open source.
 
-One of those was a self-installing Kubernetes cluster for DAST built on a complex stack of Lambda, ECS and EKS. It was an impressive solution to a difficult challenge, though it had become fragile. Hard to change, hard to reason about and difficult to evolve. Collaborator, which powers Burp Suite’s out-of-band testing, was running on a single, oversized EC2 instance. This created a single point of failure and made scaling or updating a manual and risky process. If we had to reboot the service, any uncollected interactions were lost, as all the data was stored in memory.
+One of those was a self-installing Kubernetes cluster for DAST built on a complex stack of Lambda, ECS and EKS. It was an impressive solution to a difficult challenge, though it had become fragile. Hard to change, hard to reason about and difficult to evolve. Collaborator, which powers Burp Suite’s out-of-band testing, was still running on a single EC2 instance, a constraint we’d return to later.
 
 I worked with the DAST team to simplify their Kubernetes setup using Helm and a CloudFormation-based reference architecture. That removed the tight coupling to infrastructure and made installation less complex. Most importantly, it made it evolvable.
 
