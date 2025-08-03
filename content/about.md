@@ -10,4 +10,4 @@ Right now, I lead the technology function at PortSwigger, covering platform engi
 
 Before this, I led DevSecOps at Barclays, consulted at ThoughtWorks, and held architecture roles at DWP, Co-op Bank and others. From early network engineering to org-wide strategy, I’ve always focused on delivery, clarity and making tech that actually matters.
 
-This site is where I share thoughts on AI, engineering leadership, systems thinking and how teams and technology evolve together.a
+This site is where I share thoughts on AI, engineering leadership, systems thinking and how teams and technology evolve together.
