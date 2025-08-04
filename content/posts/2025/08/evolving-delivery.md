@@ -124,7 +124,7 @@ It’s not locked down. It’s not top-down. It’s the platform you’d build y
 
 DAST and Burp Suite Pro are our flagship products. They are complex, powerful and trusted by thousands of security professionals around the world. They were also built in a very different delivery era.
 
-These tools were never designed for continuous delivery. They were built for confidence, control and stability. They have complex codebases, deep integrations and global user bases. Historically, they shipped on slower cadences, sometimes monthly, sometimes longer, and that made sense in the world we were in.
+These tools were built in a time when slower, stable cadences were the norm. They have complex codebases, deep integrations and global user bases. Historically, they shipped monthly or less, and that made sense in the world we were in.
 
 That world has changed.
 
@@ -138,7 +138,7 @@ We are not rewriting them. We are beginning to rebuild the release model around 
 
 That means shared build pipelines, continuous validation, better artefact management and improved telemetry. That telemetry is now centralised and fed into our data platform, giving teams a clearer view of how releases behave in the real world. It also means smaller, safer changes and faster recovery when things go wrong.
 
-Even installer-based desktop software benefits from this. Today, a feature built in BurpAI might ship in days, reach the Pro nightly channel weeks later and only become available in the stable release another month after that. That gap needs to shrink. For BurpAI, that path is short, around 13 minutes from code commit to deploy-ready artefact. We are working to shorten that path across all products by improving test automation, release tooling and simplifying the end-to-end process. We are unlikely to match the speed of a greenfield team like BurpAI, though we are confident we can make a substantial dent in the current Lead Time for Change, which at the moment we cannot even measure accurately.
+Even installer-based desktop software benefits from this. Today, a feature built in BurpAI can move from commit to deploy-ready in minutes, but it still takes time to reach stable Pro builds. We’re working to streamline that path end-to-end, reduce delays and improve confidence at every stage. We’re also improving our ability to track and reduce Lead Time for Change.
 
 Our goal is continuous delivery, not continuous deployment. We want every change to be safe and ready to release at any time, without forcing a release the moment a pipeline goes green. Teams still control when they release. We are following the principle outlined at [minimumcd.org](https://minimumcd.org/), where the emphasis is on confidence and readiness, not automation for its own sake.
 
