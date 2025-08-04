@@ -138,7 +138,7 @@ We are not rewriting them. We are beginning to rebuild the release model around 
 
 That means shared build pipelines, continuous validation, better artefact management and improved telemetry. That telemetry is now centralised and fed into our data platform, giving teams a clearer view of how releases behave in the real world. It also means smaller, safer changes and faster recovery when things go wrong.
 
-Even installer-based desktop software benefits from this. Today, a feature built in BurpAI can move from commit to deploy-ready in minutes, but it still takes time to reach stable Pro builds. We’re working to streamline that path end-to-end, reduce delays and improve confidence at every stage. We’re also improving our ability to track and reduce Lead Time for Change.
+Even installer-based desktop software benefits from this. Today, a feature built in BurpAI can move from commit to deploy-ready in 13 minutes, but it still takes time to reach stable Pro builds. We’re working to streamline that path end-to-end, reduce delays and improve confidence at every stage. We’re also improving our ability to track and reduce Lead Time for Change.
 
 Our goal is continuous delivery, not continuous deployment. We want every change to be safe and ready to release at any time, without forcing a release the moment a pipeline goes green. Teams still control when they release. We are following the principle outlined at [minimumcd.org](https://minimumcd.org/), where the emphasis is on confidence and readiness, not automation for its own sake.
 
