@@ -3,6 +3,9 @@ date: '2025-08-05'
 publishDate: '2025-08-05'
 draft: false
 title: 'From Air-Gapped to AI-Ready: The Story of PortSwigger’s Delivery Shift'
+author:
+  name: "Ben Smith"
+  url: "https://scalablepath.net/about/"
 tags:
   - platform
   - strategy
