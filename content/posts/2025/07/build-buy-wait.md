@@ -3,9 +3,6 @@ date: '2025-07-26'
 publishDate: '2025-07-29'
 draft: false
 title: 'Build Buy Wait'
-author:
-  name: "Ben Smith"
-  url: "https://scalablepath.net/about/"
 tags:
   - leadership
   - strategy

@@ -2,9 +2,6 @@
 date: '2025-07-20T16:32:03+01:00'
 draft: false
 title: 'Expert Generalists Will Win the AI Race'
-author:
-  name: "Ben Smith"
-  url: "https://scalablepath.net/about/"
 tags:
   - leadership
   - strategy
