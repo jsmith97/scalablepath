@@ -7,14 +7,6 @@ TZ = "Europe/London"
 publish = "public"
 command = "git config core.quotepath false && hugo --gc --minify"
 
-# Prevent indexing of deploy previews
-[[headers]]
-for = "/*"
-  [headers.values]
-    X-Robots-Tag = "noindex"
-  [headers.conditions]
-    Environment = "deploy-preview"
-
 # Security + GA4-compatible CSP headers
 [[headers]]
 for = "/*"
