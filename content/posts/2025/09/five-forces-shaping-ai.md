@@ -75,7 +75,7 @@ Standard tests like MMLU for knowledge and HumanEval for coding show diminishing
 
 ## **Non-compute costs stay fixed**
 
-Some barriers never move. Latency cannot be eliminated. Electricity always has a price. Compliance keeps people in the loop. Safety reviews and audits add fixed overhead. Each large training run crowds out other priorities like evaluation or product design. In 2024 and 2025 **some** labs reduced safety or interpretability teams to free up resources for scaling. It shows the trade-offs that come with chasing the frontier.
+Some barriers never move. Latency cannot be eliminated. Electricity always has a price. Compliance keeps people in the loop. Safety reviews and audits add fixed overhead. Each large training run crowds out other priorities like evaluation or product design. In 2024 and 2025 some labs reduced safety or interpretability teams to free up resources for scaling. It shows the trade-offs that come with chasing the frontier.
 
 ## **Cost reality**
 
